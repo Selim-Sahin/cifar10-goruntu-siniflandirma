@@ -1,0 +1,6 @@
+dosya,gercek,A_tahmin,A_guven,A_dogru,B_tahmin,B_guven,B_dogru,C_tahmin,C_guven,C_dogru,B_sure_ms
+foto1.jpg,automobile,truck,0.622,0,automobile,0.561,1,automobile,0.641,1,21.8
+foto2.jpg,automobile,truck,0.690,0,automobile,0.396,1,automobile,0.910,1,22.9
+foto3.jpg,airplane,airplane,0.746,1,airplane,0.562,1,airplane,0.542,1,22.2
+foto4.jpg,airplane,cat,0.502,0,cat,0.563,0,airplane,0.579,1,22.0
+foto5.jpg,yok,airplane,0.257,0,airplane,0.244,0,airplane,0.297,0,21.5
